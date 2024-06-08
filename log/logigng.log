@@ -1,0 +1,322 @@
+2024-06-02 00:09:57 INFO  eBanking:17 - Url is Opened
+  2024-06-02 00:10:00 INFO  eBanking:21 - Entered Username
+  2024-06-02 00:10:00 INFO  eBanking:23 - Entered Password
+  2024-06-02 00:10:04 INFO  eBanking:28 - Test Case Passed
+  2024-06-02 15:47:58 INFO  eBanking:17 - Url is Opened
+  2024-06-02 15:50:00 INFO  eBanking:17 - Url is Opened
+  2024-06-02 15:51:10 INFO  eBanking:17 - Url is Opened
+  2024-06-02 16:01:07 INFO  eBanking:17 - Url is Opened
+  2024-06-02 16:01:45 INFO  eBanking:17 - Url is Opened
+  2024-06-02 16:01:49 INFO  eBanking:21 - Entered Username
+  2024-06-02 16:01:49 INFO  eBanking:23 - Entered Password
+  2024-06-02 16:01:56 INFO  eBanking:28 - Test Case Passed
+  2024-06-02 23:26:35 INFO  eBanking:17 - Url is Opened
+  2024-06-02 23:26:37 INFO  eBanking:21 - Entered Username
+  2024-06-02 23:26:38 INFO  eBanking:23 - Entered Password
+  2024-06-02 23:26:41 INFO  eBanking:28 - Test Case Passed
+  2024-06-02 23:48:00 INFO  eBanking:19 - Url is Opened
+  2024-06-02 23:48:09 INFO  eBanking:23 - Entered Username
+  2024-06-02 23:48:09 INFO  eBanking:25 - Entered Password
+  2024-06-03 17:04:29 INFO  eBanking:18 - User name Provided
+  2024-06-03 17:04:29 INFO  eBanking:20 - Password Provided
+  2024-06-03 17:04:40 INFO  eBanking:18 - User name Provided
+  2024-06-03 17:04:42 INFO  eBanking:20 - Password Provided
+  2024-06-03 17:04:55 INFO  eBanking:18 - User name Provided
+  2024-06-03 17:04:56 INFO  eBanking:20 - Password Provided
+  2024-06-03 17:05:05 INFO  eBanking:31 - Login Passed
+  2024-06-03 17:05:13 INFO  eBanking:18 - User name Provided
+  2024-06-03 17:05:15 INFO  eBanking:20 - Password Provided
+  2024-06-03 17:05:26 INFO  eBanking:18 - User name Provided
+  2024-06-03 17:07:25 INFO  eBanking:18 - User name Provided
+  2024-06-03 17:07:26 INFO  eBanking:20 - Password Provided
+  2024-06-03 17:07:34 INFO  eBanking:18 - User name Provided
+  2024-06-03 17:07:43 INFO  eBanking:20 - Password Provided
+  2024-06-03 17:07:50 INFO  eBanking:18 - User name Provided
+  2024-06-03 17:07:52 INFO  eBanking:20 - Password Provided
+  2024-06-03 17:07:58 INFO  eBanking:31 - Login Passed
+  2024-06-03 17:08:08 INFO  eBanking:18 - User name Provided
+  2024-06-03 17:08:09 INFO  eBanking:20 - Password Provided
+  2024-06-03 17:08:17 INFO  eBanking:18 - User name Provided
+  2024-06-04 00:07:17 INFO  eBanking:19 - Url is Opened
+  2024-06-04 00:07:22 INFO  eBanking:23 - Entered Username
+  2024-06-04 00:07:23 INFO  eBanking:25 - Entered Password
+  2024-06-04 00:07:43 INFO  eBanking:18 - User name Provided
+  2024-06-04 00:07:44 INFO  eBanking:20 - Password Provided
+  2024-06-04 00:07:54 INFO  eBanking:18 - User name Provided
+  2024-06-04 00:07:55 INFO  eBanking:20 - Password Provided
+  2024-06-04 00:08:05 INFO  eBanking:18 - User name Provided
+  2024-06-04 00:08:06 INFO  eBanking:20 - Password Provided
+  2024-06-04 00:08:13 INFO  eBanking:31 - Login Passed
+  2024-06-04 00:08:19 INFO  eBanking:18 - User name Provided
+  2024-06-04 00:08:21 INFO  eBanking:20 - Password Provided
+  2024-06-04 00:08:27 INFO  eBanking:18 - User name Provided
+  2024-06-04 00:08:38 INFO  eBanking:18 - User name Provided
+  2024-06-04 00:08:41 INFO  eBanking:20 - Password Provided
+  2024-06-04 00:08:47 INFO  eBanking:27 - Providing Customer Details..
+  2024-06-04 00:09:13 INFO  eBanking:43 - Validation Started...
+  2024-06-04 00:09:13 INFO  eBanking:48 - test case passed
+  2024-06-04 00:10:41 INFO  eBanking:19 - Url is Opened
+  2024-06-04 00:10:42 INFO  eBanking:23 - Entered Username
+  2024-06-04 00:10:42 INFO  eBanking:25 - Entered Password
+  2024-06-04 00:10:47 INFO  eBanking:30 - Test Case Passed
+  2024-06-04 00:11:03 INFO  eBanking:18 - User name Provided
+  2024-06-04 00:11:03 INFO  eBanking:20 - Password Provided
+  2024-06-04 00:11:14 INFO  eBanking:18 - User name Provided
+  2024-06-04 00:11:15 INFO  eBanking:20 - Password Provided
+  2024-06-04 00:11:22 INFO  eBanking:18 - User name Provided
+  2024-06-04 00:11:23 INFO  eBanking:20 - Password Provided
+  2024-06-04 00:11:29 INFO  eBanking:18 - User name Provided
+  2024-06-05 15:25:26 INFO  eBanking:21 - User name Provided
+  2024-06-05 15:25:27 INFO  eBanking:23 - Password Provided
+  2024-06-05 15:25:35 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-05 15:25:56 INFO  eBanking:46 - Validation Started...
+  2024-06-05 15:25:56 INFO  eBanking:52 - test case passed
+  2024-06-05 15:28:50 INFO  eBanking:21 - User name Provided
+  2024-06-05 15:28:51 INFO  eBanking:23 - Password Provided
+  2024-06-05 16:06:27 INFO  eBanking:21 - User name Provided
+  2024-06-05 16:06:28 INFO  eBanking:23 - Password Provided
+  2024-06-05 16:07:47 INFO  eBanking:21 - User name Provided
+  2024-06-05 16:07:48 INFO  eBanking:23 - Password Provided
+  2024-06-05 16:07:57 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-05 16:08:20 INFO  eBanking:46 - Validation Started...
+  2024-06-05 16:08:20 INFO  eBanking:52 - test case passed
+  2024-06-05 16:33:02 INFO  eBanking:21 - User name Provided
+  2024-06-05 16:33:03 INFO  eBanking:23 - Password Provided
+  2024-06-05 16:33:12 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-05 16:33:36 INFO  eBanking:46 - Validation Started...
+  2024-06-05 16:33:36 INFO  eBanking:52 - test case passed
+  2024-06-05 17:34:37 INFO  eBanking:22 - User name Provided
+  2024-06-05 17:34:38 INFO  eBanking:24 - Password Provided
+  2024-06-05 17:34:51 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-05 17:37:47 INFO  eBanking:22 - User name Provided
+  2024-06-05 17:37:49 INFO  eBanking:24 - Password Provided
+  2024-06-05 17:37:57 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-05 17:38:17 INFO  eBanking:46 - Validation Started...
+  2024-06-06 10:13:50 INFO  eBanking:22 - User name Provided
+  2024-06-06 10:13:57 INFO  eBanking:24 - Password Provided
+  2024-06-06 10:14:07 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-06 10:14:28 INFO  eBanking:46 - Validation Started...
+  2024-06-06 10:14:28 INFO  eBanking:51 - test case passed
+  2024-06-06 10:17:50 INFO  eBanking:22 - User name Provided
+  2024-06-06 10:17:51 INFO  eBanking:24 - Password Provided
+  2024-06-06 10:17:57 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-06 10:18:18 INFO  eBanking:46 - Validation Started...
+  2024-06-06 10:18:18 INFO  eBanking:51 - test case passed
+  2024-06-06 10:26:28 INFO  eBanking:22 - User name Provided
+  2024-06-06 10:26:28 INFO  eBanking:24 - Password Provided
+  2024-06-06 10:26:35 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-06 10:26:56 INFO  eBanking:46 - Validation Started...
+  2024-06-06 10:26:56 INFO  eBanking:51 - test case passed
+  2024-06-06 10:28:08 INFO  eBanking:21 - User name Provided
+  2024-06-06 10:28:15 INFO  eBanking:23 - Password Provided
+  2024-06-06 10:28:24 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-06 10:28:46 INFO  eBanking:46 - Validation Started...
+  2024-06-06 10:28:46 INFO  eBanking:52 - test case passed
+  2024-06-06 10:41:36 INFO  eBanking:22 - User name Provided
+  2024-06-06 10:41:44 INFO  eBanking:24 - Password Provided
+  2024-06-06 10:41:52 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-06 10:42:12 INFO  eBanking:46 - Validation Started...
+  2024-06-06 10:42:12 INFO  eBanking:51 - test case passed
+  2024-06-06 10:46:18 INFO  eBanking:22 - User name Provided
+  2024-06-06 10:46:19 INFO  eBanking:24 - Password Provided
+  2024-06-06 10:46:27 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-06 10:46:51 INFO  eBanking:46 - Validation Started...
+  2024-06-06 10:46:51 INFO  eBanking:51 - test case passed
+  2024-06-06 12:19:07 INFO  eBanking:22 - User name Provided
+  2024-06-06 12:19:08 INFO  eBanking:24 - Password Provided
+  2024-06-06 12:19:19 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-06 12:21:25 INFO  eBanking:19 - Url is Opened
+  2024-06-06 12:21:32 INFO  eBanking:23 - Entered Username
+  2024-06-06 12:21:33 INFO  eBanking:25 - Entered Password
+  2024-06-06 12:21:37 INFO  eBanking:30 - Test Case Passed
+  2024-06-06 12:21:47 INFO  eBanking:18 - User name Provided
+  2024-06-06 12:21:51 INFO  eBanking:20 - Password Provided
+  2024-06-06 12:21:58 INFO  eBanking:27 - Providing Customer Details..
+  2024-06-06 12:22:23 INFO  eBanking:43 - Validation Started...
+  2024-06-06 12:22:23 INFO  eBanking:48 - test case passed
+  2024-06-06 12:22:32 INFO  eBanking:21 - User name Provided
+  2024-06-06 12:22:33 INFO  eBanking:23 - Password Provided
+  2024-06-06 12:22:41 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-06 12:23:07 INFO  eBanking:46 - Validation Started...
+  2024-06-06 12:23:07 INFO  eBanking:52 - test case passed
+  2024-06-06 14:02:28 INFO  eBanking:19 - Url is Opened
+  2024-06-06 14:02:30 INFO  eBanking:23 - Entered Username
+  2024-06-06 14:02:33 INFO  eBanking:25 - Entered Password
+  2024-06-06 14:02:40 INFO  eBanking:30 - Test Case Passed
+  2024-06-06 14:02:52 INFO  eBanking:18 - User name Provided
+  2024-06-06 14:02:57 INFO  eBanking:20 - Password Provided
+  2024-06-06 14:03:10 INFO  eBanking:27 - Providing Customer Details..
+  2024-06-06 14:03:30 INFO  eBanking:43 - Validation Started...
+  2024-06-06 14:03:30 INFO  eBanking:48 - test case passed
+  2024-06-06 14:03:44 INFO  eBanking:21 - User name Provided
+  2024-06-06 14:03:45 INFO  eBanking:23 - Password Provided
+  2024-06-06 14:04:00 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-06 14:04:20 INFO  eBanking:46 - Validation Started...
+  2024-06-06 14:13:55 INFO  eBanking:19 - Url is Opened
+  2024-06-06 14:13:56 INFO  eBanking:23 - Entered Username
+  2024-06-06 14:13:57 INFO  eBanking:25 - Entered Password
+  2024-06-06 14:14:00 INFO  eBanking:30 - Test Case Passed
+  2024-06-06 14:14:14 INFO  eBanking:18 - User name Provided
+  2024-06-06 14:14:14 INFO  eBanking:20 - Password Provided
+  2024-06-06 14:14:22 INFO  eBanking:27 - Providing Customer Details..
+  2024-06-06 14:14:42 INFO  eBanking:43 - Validation Started...
+  2024-06-06 14:14:42 INFO  eBanking:48 - test case passed
+  2024-06-06 14:14:57 INFO  eBanking:21 - User name Provided
+  2024-06-06 14:14:58 INFO  eBanking:23 - Password Provided
+  2024-06-06 14:15:06 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-06 14:15:28 INFO  eBanking:46 - Validation Started...
+  2024-06-06 14:15:28 INFO  eBanking:52 - test case passed
+  2024-06-06 14:43:47 INFO  eBanking:19 - Url is Opened
+  2024-06-06 14:43:49 INFO  eBanking:23 - Entered Username
+  2024-06-06 14:43:49 INFO  eBanking:25 - Entered Password
+  2024-06-06 14:43:54 INFO  eBanking:30 - Test Case Passed
+  2024-06-06 14:44:10 INFO  eBanking:18 - User name Provided
+  2024-06-06 14:44:10 INFO  eBanking:20 - Password Provided
+  2024-06-06 14:44:19 INFO  eBanking:27 - Providing Customer Details..
+  2024-06-06 14:44:41 INFO  eBanking:43 - Validation Started...
+  2024-06-06 14:44:41 INFO  eBanking:48 - test case passed
+  2024-06-06 14:44:55 INFO  eBanking:21 - User name Provided
+  2024-06-06 14:44:56 INFO  eBanking:23 - Password Provided
+  2024-06-06 14:45:06 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-06 14:45:26 INFO  eBanking:46 - Validation Started...
+  2024-06-06 14:45:27 INFO  eBanking:52 - test case passed
+  2024-06-06 23:59:42 INFO  eBanking:19 - Url is Opened
+  2024-06-06 23:59:45 INFO  eBanking:23 - Entered Username
+  2024-06-06 23:59:46 INFO  eBanking:25 - Entered Password
+  2024-06-07 00:01:38 INFO  eBanking:30 - Test Case Passed
+  2024-06-07 00:04:35 INFO  eBanking:18 - User name Provided
+  2024-06-07 00:04:58 INFO  eBanking:20 - Password Provided
+  2024-06-07 00:05:32 INFO  eBanking:27 - Providing Customer Details..
+  2024-06-07 00:06:11 INFO  eBanking:21 - User name Provided
+  2024-06-07 00:06:12 INFO  eBanking:23 - Password Provided
+  2024-06-07 00:09:16 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-07 00:11:18 INFO  eBanking:19 - Url is Opened
+  2024-06-07 00:11:19 INFO  eBanking:23 - Entered Username
+  2024-06-07 00:11:28 INFO  eBanking:25 - Entered Password
+  2024-06-07 00:11:46 INFO  eBanking:30 - Test Case Passed
+  2024-06-07 00:12:07 INFO  eBanking:18 - User name Provided
+  2024-06-07 00:12:07 INFO  eBanking:20 - Password Provided
+  2024-06-07 00:12:19 INFO  eBanking:27 - Providing Customer Details..
+  2024-06-07 00:12:46 INFO  eBanking:43 - Validation Started...
+  2024-06-07 00:12:49 INFO  eBanking:48 - test case passed
+  2024-06-07 00:13:17 INFO  eBanking:21 - User name Provided
+  2024-06-07 00:13:18 INFO  eBanking:23 - Password Provided
+  2024-06-07 00:13:45 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-07 00:14:05 INFO  eBanking:46 - Validation Started...
+  2024-06-07 11:41:28 INFO  eBanking:19 - Url is Opened
+  2024-06-07 11:41:29 INFO  eBanking:23 - Entered Username
+  2024-06-07 11:41:37 INFO  eBanking:25 - Entered Password
+  2024-06-07 11:41:47 INFO  eBanking:30 - Test Case Passed
+  2024-06-07 11:42:05 INFO  eBanking:18 - User name Provided
+  2024-06-07 11:42:19 INFO  eBanking:20 - Password Provided
+  2024-06-07 11:42:41 INFO  eBanking:27 - Providing Customer Details..
+  2024-06-07 11:43:17 INFO  eBanking:43 - Validation Started...
+  2024-06-07 11:43:17 INFO  eBanking:48 - test case passed
+  2024-06-07 11:43:31 INFO  eBanking:21 - User name Provided
+  2024-06-07 11:43:45 INFO  eBanking:23 - Password Provided
+  2024-06-07 11:44:08 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-07 11:44:40 INFO  eBanking:46 - Validation Started...
+  2024-06-07 11:44:40 INFO  eBanking:52 - test case passed
+  2024-06-07 11:47:06 INFO  eBanking:19 - Url is Opened
+  2024-06-07 11:47:34 INFO  eBanking:23 - Entered Username
+  2024-06-07 11:47:34 INFO  eBanking:25 - Entered Password
+  2024-06-07 11:48:58 INFO  eBanking:30 - Test Case Passed
+  2024-06-07 11:49:31 INFO  eBanking:18 - User name Provided
+  2024-06-07 11:49:37 INFO  eBanking:20 - Password Provided
+  2024-06-07 11:51:45 INFO  eBanking:27 - Providing Customer Details..
+  2024-06-07 11:52:48 INFO  eBanking:21 - User name Provided
+  2024-06-07 11:52:53 INFO  eBanking:23 - Password Provided
+  2024-06-07 11:54:09 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-07 12:40:06 INFO  eBanking:19 - Url is Opened
+  2024-06-07 12:40:07 INFO  eBanking:23 - Entered Username
+  2024-06-07 12:40:09 INFO  eBanking:25 - Entered Password
+  2024-06-07 12:40:16 INFO  eBanking:30 - Test Case Passed
+  2024-06-07 12:40:33 INFO  eBanking:18 - User name Provided
+  2024-06-07 12:40:33 INFO  eBanking:20 - Password Provided
+  2024-06-07 12:40:41 INFO  eBanking:27 - Providing Customer Details..
+  2024-06-07 12:41:11 INFO  eBanking:21 - User name Provided
+  2024-06-07 12:41:11 INFO  eBanking:23 - Password Provided
+  2024-06-07 12:41:20 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-07 14:29:28 INFO  eBanking:19 - Url is Opened
+  2024-06-07 14:29:29 INFO  eBanking:23 - Entered Username
+  2024-06-07 14:29:34 INFO  eBanking:25 - Entered Password
+  2024-06-07 14:29:47 INFO  eBanking:30 - Test Case Passed
+  2024-06-07 14:30:15 INFO  eBanking:18 - User name Provided
+  2024-06-07 14:30:17 INFO  eBanking:20 - Password Provided
+  2024-06-07 14:30:40 INFO  eBanking:27 - Providing Customer Details..
+  2024-06-07 14:31:18 INFO  eBanking:44 - Validation Started...
+  2024-06-07 14:31:18 INFO  eBanking:49 - test case passed
+  2024-06-07 14:31:42 INFO  eBanking:21 - User name Provided
+  2024-06-07 14:31:43 INFO  eBanking:23 - Password Provided
+  2024-06-07 14:32:07 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-07 14:32:34 INFO  eBanking:47 - Validation Started...
+  2024-06-07 14:36:57 INFO  eBanking:19 - Url is Opened
+  2024-06-07 14:36:58 INFO  eBanking:23 - Entered Username
+  2024-06-07 14:36:59 INFO  eBanking:25 - Entered Password
+  2024-06-07 14:37:14 INFO  eBanking:30 - Test Case Passed
+  2024-06-07 14:37:27 INFO  eBanking:18 - User name Provided
+  2024-06-07 14:37:33 INFO  eBanking:20 - Password Provided
+  2024-06-07 14:37:49 INFO  eBanking:31 - Providing Customer Details..
+  2024-06-07 14:38:07 INFO  eBanking:48 - Validation Started...
+  2024-06-07 14:38:07 INFO  eBanking:53 - test case passed
+  2024-06-07 14:38:19 INFO  eBanking:21 - User name Provided
+  2024-06-07 14:38:23 INFO  eBanking:23 - Password Provided
+  2024-06-07 14:38:31 INFO  eBanking:30 - Providing Customer Details..
+  2024-06-07 14:38:51 INFO  eBanking:47 - Validation Started...
+  2024-06-07 14:38:51 INFO  eBanking:53 - test case passed
+  2024-06-07 14:42:32 INFO  eBanking:19 - Url is Opened
+  2024-06-07 14:42:33 INFO  eBanking:23 - Entered Username
+  2024-06-07 14:42:33 INFO  eBanking:25 - Entered Password
+  2024-06-07 14:44:01 INFO  eBanking:30 - Test Case Passed
+  2024-06-07 14:44:25 INFO  eBanking:18 - User name Provided
+  2024-06-07 14:44:47 INFO  eBanking:20 - Password Provided
+  2024-06-07 14:45:23 INFO  eBanking:31 - Providing Customer Details..
+  2024-06-07 14:45:44 INFO  eBanking:48 - Validation Started...
+  2024-06-07 14:46:19 INFO  eBanking:21 - User name Provided
+  2024-06-07 14:46:20 INFO  eBanking:23 - Password Provided
+  2024-06-07 14:46:41 INFO  eBanking:34 - Providing Customer Details..
+  2024-06-07 14:46:58 INFO  eBanking:51 - Validation Started...
+  2024-06-07 14:46:58 INFO  eBanking:57 - test case passed
+  2024-06-07 14:51:31 INFO  eBanking:19 - Url is Opened
+  2024-06-07 14:51:50 INFO  eBanking:23 - Entered Username
+  2024-06-07 14:51:50 INFO  eBanking:25 - Entered Password
+  2024-06-07 14:51:57 INFO  eBanking:30 - Test Case Passed
+  2024-06-07 14:52:26 INFO  eBanking:18 - User name Provided
+  2024-06-07 14:52:26 INFO  eBanking:20 - Password Provided
+  2024-06-07 14:52:50 INFO  eBanking:31 - Providing Customer Details..
+  2024-06-07 14:53:09 INFO  eBanking:48 - Validation Started...
+  2024-06-07 14:53:09 INFO  eBanking:53 - test case passed
+  2024-06-07 14:53:37 INFO  eBanking:21 - User name Provided
+  2024-06-07 14:53:38 INFO  eBanking:23 - Password Provided
+  2024-06-07 14:54:31 INFO  eBanking:34 - Providing Customer Details..
+  2024-06-07 14:54:54 INFO  eBanking:51 - Validation Started...
+  2024-06-07 14:54:57 INFO  eBanking:57 - test case passed
+  2024-06-07 23:55:14 INFO  eBanking:19 - Url is Opened
+  2024-06-07 23:55:14 INFO  eBanking:23 - Entered Username
+  2024-06-07 23:55:14 INFO  eBanking:25 - Entered Password
+  2024-06-07 23:55:16 INFO  eBanking:30 - Test Case Passed
+  2024-06-07 23:55:23 INFO  eBanking:18 - User name Provided
+  2024-06-07 23:55:24 INFO  eBanking:20 - Password Provided
+  2024-06-07 23:55:34 INFO  eBanking:31 - Providing Customer Details..
+  2024-06-07 23:55:49 INFO  eBanking:48 - Validation Started...
+  2024-06-07 23:55:49 INFO  eBanking:53 - test case passed
+  2024-06-07 23:56:11 INFO  eBanking:21 - User name Provided
+  2024-06-07 23:56:13 INFO  eBanking:23 - Password Provided
+  2024-06-07 23:56:34 INFO  eBanking:34 - Providing Customer Details..
+  2024-06-07 23:56:52 INFO  eBanking:51 - Validation Started...
+  2024-06-07 23:56:53 INFO  eBanking:57 - test case passed
+  2024-06-07 23:58:43 INFO  eBanking:19 - Url is Opened
+  2024-06-07 23:58:45 INFO  eBanking:23 - Entered Username
+  2024-06-07 23:58:46 INFO  eBanking:25 - Entered Password
+  2024-06-07 23:58:55 INFO  eBanking:30 - Test Case Passed
+  2024-06-07 23:59:21 INFO  eBanking:18 - User name Provided
+  2024-06-07 23:59:29 INFO  eBanking:20 - Password Provided
+  2024-06-07 23:59:56 INFO  eBanking:31 - Providing Customer Details..
+  2024-06-08 00:00:17 INFO  eBanking:48 - Validation Started...
+  2024-06-08 00:00:17 INFO  eBanking:53 - test case passed
+  2024-06-08 00:00:31 INFO  eBanking:21 - User name Provided
+  2024-06-08 00:00:39 INFO  eBanking:23 - Password Provided
+  2024-06-08 00:01:05 INFO  eBanking:34 - Providing Customer Details..
+  2024-06-08 00:01:22 INFO  eBanking:51 - Validation Started...
+  2024-06-08 00:01:23 INFO  eBanking:57 - test case passed
+  
